@@ -1,10 +1,9 @@
 google-play-scraper
 pandas
 ipykernel
-transformers 
-torch
 scikit-learn
-
+telethon
+dotenv
 
 seaborn
 matplotlib
